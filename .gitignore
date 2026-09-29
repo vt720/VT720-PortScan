@@ -1,0 +1,29 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 扫描结果文件(运行程序时生成,不必上传)
+scan_result.json
+
+# 日志
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 测试缓存
+.pytest_cache/
