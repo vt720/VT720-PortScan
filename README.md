@@ -89,7 +89,7 @@ python port-scanner.py -t 192.168.1.1 -p 1-1000 -b -o
 ```json
 {
     "scan_info": {
-        "target": "192.168.56.11",
+        "target": "www.xxx.com",
         "ip": "192.168.56.11",
         "port_count_scanned": 1,
         "concurrency": 50,
