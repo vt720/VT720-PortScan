@@ -1,5 +1,5 @@
 # 简易多线程并发式端口扫描器
-
+by VT720
 [![Python](https://img.shields.io/badge/Python-3.14+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
